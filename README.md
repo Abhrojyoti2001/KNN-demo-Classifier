@@ -1,2 +1,2 @@
 # KNN-demo-Classifier
-Creating a KNN Classifier with own code
+Creating a KNN Classifier with my own code
